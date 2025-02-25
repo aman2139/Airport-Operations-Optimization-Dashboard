@@ -1,5 +1,7 @@
 # Airport-Operations-Optimization-Dashboard
 
+Kindly download the `BIS_Project.twbx` file on your local PC to interact with the dashboard.
+
 ### Introduction:
 This document outlines the plan for developing an interactive dashboard developed in Tableau aimed at optimizing operations for the five busiest airports in the USA. The primary goal is to provide data-driven insights to airport authorities to improve efficiency, reduce delays, and enhance passenger satisfaction. The dashboard will focus on comparing performance metrics from 2023 and 2024, identifying delay patterns, and analyzing efficiency at different times and locations.
 
